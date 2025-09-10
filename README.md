@@ -15,7 +15,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1OFopFp3g7og04sVPuOg7um
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [AIzaSyBv7Ae4puTa_YJCBr5IvtnR4Q2yq4g3Y9w) to your Gemini API key
 3. Run the app:
    `npm run dev`
 # skylineapp
